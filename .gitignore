@@ -5,3 +5,5 @@
 /MarsRoverProject/obj
 /MarsRoverProject/bin/Debug/net8.0
 /MarsRoverProject/.vs/MarsRoverProject
+/Tests/bin/Debug/net8.0
+/Tests/obj
